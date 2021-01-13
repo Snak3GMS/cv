@@ -1,6 +1,6 @@
 Vladimir Shkarubov
 ----------
-Contacts: [vk](vk.com/shkarubovvova)
+Contacts: [vk](https://vk.com/shkarubovvova)
 
 Since 2018 I have been interested in web development, I want to become a good front-end developer. Very easy to learn, understanding 95% of the material from the 1st try. I have always liked the topic of IT, so I love to study it.
 

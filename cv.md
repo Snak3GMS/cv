@@ -6,7 +6,7 @@ Since 2018 I have been interested in web development, I want to become a good fr
 Sample code from the latest [TODOLIST](https://snak3gms.github.io/) project:
 --------
 // Функция удаления элемента
-function deleteElement() {
+```function deleteElement() {
   if (list.innerHTML == '') {
         list.innerHTML = `<div class="listnull">Список пуст...</div>`;
     }
@@ -17,8 +17,9 @@ function deleteElement() {
         });
     }); 
 }
+```
 // Формирование списка задач на странице из созданного массива объектов
-function getDoList() {
+```function getDoList() {
     list.innerHTML='';
     toDoList.forEach((element) => {
         const elementList = document.createElement('div');
@@ -32,6 +33,7 @@ function getDoList() {
     deleteElement();    
     localStorage.setItem('1', JSON.stringify(toDoList));
 }
+```
 
 --------
 ## Passed courses on JS and on creating web pages

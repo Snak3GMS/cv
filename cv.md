@@ -33,3 +33,7 @@ function getDoList() {
     localStorage.setItem('1', JSON.stringify(toDoList));
 }
 
+--------
+## Passed courses on JS and on creating web pages
+Secondary vocational education, online courses by Ivan Petrichenko, self-education from the books: "You don't know JS" and "learnJavaScript"
+I can read the documentation with a dictionary. English level A2(pre-intermediate)

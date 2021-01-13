@@ -3,7 +3,8 @@ Vladimir Shkarubov
 Contactsvk.com/shkarubovvova
 
 Since 2018 I have been interested in web development, I want to become a good front-end developer. Very easy to learn, understanding 95% of the material from the 1st try. I have always liked the topic of IT, so I love to study it.
-## Skills:HTML, CSS, SASS, LESS, JavaScript, ES6, algorithms.
+
+**Skills**:HTML, CSS, SASS, LESS, JavaScript, ES6, algorithms.
 Sample code from the latest [TODOLIST](https://snak3gms.github.io/) project:
 --------
 // Функция удаления элемента
@@ -37,8 +38,8 @@ Sample code from the latest [TODOLIST](https://snak3gms.github.io/) project:
 ```
 
 --------
-## Passed courses on JS and on creating web pages
+**Passed courses** on JS and on creating web pages
 
-Secondary vocational education, online courses by Ivan Petrichenko, self-education from the books: "You don't know JS" and "learnJavaScript"
+**Secondary vocational education**, online courses by Ivan Petrichenko, self-education from the books: "You don't know JS" and "learnJavaScript"
 
-I can read the documentation with a dictionary. English level A2(pre-intermediate)
+I can read the documentation with a dictionary. English level **A2**(pre-intermediate)

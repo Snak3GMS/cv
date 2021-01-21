@@ -46,11 +46,11 @@ span {
     padding: 0 10px 0 0;
 }
 
-.first main {
+.first article {
     width: 75%;
 }
 
-.first main img {
+.first article img {
     border: solid 5px rgb(223, 223, 223);
     border-radius: 10px;
     float: right;
@@ -58,11 +58,11 @@ span {
     margin-left: 2px;
 }
 
-.first main img:hover {
+.first article img:hover {
     border: solid 5px rgb(204, 204, 204);
 }
 
-.first main li {
+.first article li {
     list-style: none;
 }
 
